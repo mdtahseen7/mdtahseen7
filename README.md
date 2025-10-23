@@ -10,11 +10,11 @@
 
 <br>
 
-💻 I'm a passionate **Web Developer** focused on building clean, user-friendly websites and applications.  
-🎯 Always learning and exploring new technologies.  
-📚 Currently diving deeper into **Full-Stack Development**.  
-🌟 I love creating projects that solve real-world problems.  
-✉️ You can contact me at: **mdtahseen7378@gmail.com**
+ I'm a passionate **Web Developer** focused on building clean, user-friendly websites and applications.  
+ Always learning and exploring new technologies.  
+ Currently diving deeper into **Full-Stack Development**.  
+ I love creating different projects in my free time.  
+ You can contact me at: **mdtahseen2901@gmail.com**
 
 ---
 
@@ -27,7 +27,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -40,7 +40,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-![Anime Badge](https://img.shields.io/badge/-Anime%20Fan-ff69b4?style=for-the-badge&logo=git&logoColor=white)
 
 
 ---
@@ -51,11 +50,11 @@
 
 Here are some of my public repositories:
 
-- [**kernel_xiaomi_sm6150**](https://github.com/mdtahseen7/kernel_xiaomi_sm6150): A kernel project for Xiaomi devices powered by the SM6150 chipset. *(C)*  
+- [**Miko**](https://github.com/mdtahseen7/miko): A Next js Streaming Site. 
 - [**free-vps**](https://github.com/mdtahseen7/free-vps): A project to set up and manage free VPS instances.  
 - [**simple-proxy**](https://github.com/mdtahseen7/simple-proxy): A lightweight proxy server implementation. *(TypeScript)*  
 
-Feel free to explore these repositories to see my work in action!
+Feel free to explore these repositories!
 
 ---
 
