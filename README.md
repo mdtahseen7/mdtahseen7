@@ -14,7 +14,7 @@
  Always learning and exploring new technologies.  
  Currently diving deeper into **Full-Stack Development**.  
  I love creating different projects in my free time.  
- You can contact me at: **mdtahseen2901@gmail.com**
+ You can contact me at: **mdtahseen7378@gmail.com**
 
 ---
 
@@ -43,38 +43,22 @@
 
 
 ---
-
-## **🚀 Projects**
-
+## Feel Free to explore my repositories and if you like leave a star too!
+[**MikoStream**](https://github.com/mdtahseen7/miko)
 <br>
-
-Here are some of my public repositories:
-
-- [**Miko**](https://github.com/mdtahseen7/miko): A Next js Streaming Site. 
-- [**free-vps**](https://github.com/mdtahseen7/free-vps): A project to set up and manage free VPS instances.  
-- [**simple-proxy**](https://github.com/mdtahseen7/simple-proxy): A lightweight proxy server implementation. *(TypeScript)*  
-
-Feel free to explore these repositories!
-
----
-
-## **📈 GitHub Stats**
-
-<br>
-
-
-  ![Anime Stats](https://github-readme-stats.vercel.app/api?username=mdtahseen7&theme=tokyonight&hide_title=true&show_icons=true&count_private=true&hide=prs&hide_border=true&include_all_commits=true)
- <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdtahseen7&theme=radical" width="48%" />
-</p>
-
----
+[**LunaRealm**](https://github.com/mdtahseen7/luna)
 
 ## 📫 Let's Connect!
+**Instagram** - [Md Tahseen](https://instagram.com/mdtahseen7)
+<br>
+**LinkedIn** - [Md Tahseen](https://linkedin.com/in/md-tahseen)
+<br>
+**Telegram** - [Md Tahseen](https://t.me/in_distress)
+<br>
+**Email Me** - [Md Tahseen](mailto:mdtahseen7378@gmail.com)
 
 <br>
 
-*"Consistency is the key to mastery."*
 
 ---
 ![Visitor Count](https://count.getloli.com/@mdtahseen7)
