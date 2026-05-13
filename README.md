@@ -6,7 +6,7 @@
 
 ---
 
-## **🧑‍💻 About Me**
+## ** About Me**
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## **🛠️ Technologies & Tools**
+## ** Technologies & Tools**
 
 <br>
 
@@ -48,11 +48,8 @@
 <br>
 [**LunaRealm**](https://github.com/mdtahseen7/luna)
 
-## 📫 Let's Connect!
-**Instagram** - [Md Tahseen](https://instagram.com/mdtahseen7)
-<br>
-**LinkedIn** - [Md Tahseen](https://linkedin.com/in/md-tahseen)
-<br>
+##  Let's Connect!
+
 **Telegram** - [Md Tahseen](https://t.me/in_distress)
 <br>
 **Email Me** - [Md Tahseen](mailto:mdtahseen7378@gmail.com)
